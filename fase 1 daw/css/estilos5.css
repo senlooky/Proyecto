@@ -1,0 +1,83 @@
+body{
+	background-position: center center;
+	background-attachment: fixed;
+}
+h1{
+	color: hotpink;
+	font-family: Brush Script MT ;
+	font-size: 80px;
+	text-align: center;
+	padding: 12px;
+}
+p{
+	color: hotpink;
+	font-family: arial;
+	font-size: 25px;
+	
+}
+nav{
+	color: black;
+	font-family: arial;
+	font-size: 30px;
+	text-align: center;
+	background-color: ;
+}
+#redes{
+	padding-left: 15px;
+}
+
+#redes td{
+	padding: 15px;
+	margin: 0px auto;
+}
+h2{
+	color: black;
+	font-family: Brush Script MT ;
+	font-size: 80px;
+	text-align: center;
+}
+footer{
+	text-align: center;
+}
+.caja1{
+	background-color: black;
+	 border: hotpink 11px  inset;
+  background: black;
+  padding: 100px;
+  margin: 100px;
+}
+.caja2{
+	background-color: hotpink;
+	border: black; 11px  inset;
+}
+.caja0{
+	background-color: black;
+}
+.contenedor{
+	text-align: center;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: black;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	border: hotpink 11px  inset;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: hotpink;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: hotpink;
+}

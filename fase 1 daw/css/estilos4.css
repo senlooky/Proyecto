@@ -1,0 +1,109 @@
+body{
+	background-position: center center;
+	background-attachment: fixed;
+}
+h1{
+	color: skyblue;
+	font-family: arial ;
+	font-size: 80px;
+	text-align: center;
+	padding: 12px;
+}
+p{
+	color: black;
+	font-family: arial;
+	font-size: 20px;
+	
+}
+nav{
+	color: black;
+	font-family: arial;
+	font-size: 30px;
+	text-align: center;
+	background-color: ;
+}
+
+h2{
+	color: black;
+	font-family: arial ;
+	font-size: 80px;
+	text-align: center;
+}
+footer{
+	text-align: center;
+}
+.caja1{
+	background-color: black;
+	 border: skyblue; 11px  inset;
+  background: black;
+  padding: 100px;
+  margin: 100px;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: black;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	border: skyblue; 11px  inset;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: yellow;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+h1{
+	color: yellow;
+	font-family: italic ;
+	font-size: 80px;
+	text-align: center;
+	padding: 12px;
+	background-color: white;
+	border: goldenrod;
+
+}
+h2{
+	color: goldenrod;
+	font-family: italic ;
+	text-align: center
+}
+h3{
+	color: goldenrod;
+	font-family: italic ;
+	text-align: center
+}
+.caja2{
+	background-color: white;
+	 border: goldenrod 11px  inset;
+  background: black;
+  padding: 100px;
+  margin: 100px;
+}
+
+}
+form{
+		color: black;
+	font-family: italic ;
+	background-color: white;
+}
