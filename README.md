@@ -2,10 +2,12 @@
 ### Proyecto el cual consiste en la creacion de una aplicacion de gestion de coleccion de libros usando HTML, CSS y JavaScript.
 
 ##Integrantes 01L: 👨‍💻🌚
+
 :black_medium_square: Brandon Alejandro Sanchez quintana SQ221075 <br>
 :black_medium_square: Edwin Rene Roque Bonilla RB181608 <br>
 
 ##licencia Implementada: 📑🖊
+
 ###Atribución-NoComercial-CompartirIgual
 ###CC BY-NC-SA
 
